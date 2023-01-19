@@ -45,7 +45,7 @@ Más info:
 - [crud-las-principales-operaciones-de-bases-de-datos](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/crud-las-principales-operaciones-de-bases-de-datos/)
 - [operaciones-crud-en-mongodb](https://platzi.com/contributions/operaciones-crud-en-mongodb/)
 - [cosas-basicas-de-un-crud-en-mongodb](https://platzi.com/tutoriales/1533-mongodb/4102-cosas-basicas-de-un-crud-en-mongodb/)
-
+- [MongoDB | Cheatsheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
 
 ### MongoDB - Agregación
 Las operaciones basadas en agregaciones nos permiten procesar datos que tenemos registrados para obtener resultados que aportan información útil. En otras palabras, nos permiten darle más valor a los datos que tenemos al transformarlos en información. 
@@ -82,6 +82,31 @@ Vamos a probar algunas operaciones sobre una BBDD de prueba con MongoDB para fam
 - [MongoDB | getting-started-with-python-and-mongodb](https://www.mongodb.com/blog/post/getting-started-with-python-and-mongodb)
 - [w3schools| python_mongodb](https://www.w3schools.com/python/python_mongodb_getstarted.asp)
 - [w3schools| node.js_mongodb](https://www.w3schools.com/nodejs/nodejs_mongodb.asp)
+
+### ORM vs ODM
+- [ORM vs ODM introduction](https://medium.com/spidernitt/orm-and-odm-a-brief-introduction-369046ec57eb)
+
+![img](./assets/api_rest_architecture.png)
+
+### Mongoose: un Driver que nos sirve de ODM para MongoDB
+
+![img](./assets/mongoose_odm.png)
+![img](./assets/mongoose_odm_2.png)
+
+
+Mongoose es un O.D.M (Object Document Modeling) para MongoDB en NodeJs con el que podemos crear Schemas para tipado de datos, esquematizar, validar, crear métodos y middlewares.
+
+### ORM En SQL - Sequelize
+
+Sequelize es un ORM para Nodejs que te permitirá agilizar bastante tus desarrollos que incluyan bases de datos relacionales como MySQL o PostgreSQL.
+
+![img](./assets/sequelize_node_postgre.jpg)
+![img](./assets/node_sequelize.png)
+
+- [Sequelize](https://sequelize.org/)
+
+
+
 
 ### Ejemplos de ODM para MongoDB
 - [python | mongoengine](https://github.com/MongoEngine/mongoengine)
