@@ -291,6 +291,8 @@ db.employees.insertMany([
 
 ![img](./assets/mongodbmeme2.jpg)
 
+- [Soluciones ejercicios MongoDB](./utils/ejercicioMongoDB/solution.md)
+
 
 
 
