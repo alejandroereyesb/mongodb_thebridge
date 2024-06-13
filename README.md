@@ -23,6 +23,9 @@
 - [mongodb-use-case](https://hevodata.com/learn/mongodb-use-case/)
 
 ### MongoDB atlas - deploy de tu BBDD en cloud
+![img](./assets/mongodb_atlas.png)
+![img](./assets/mongodb_atlas_2.svg)
+
 - [MongoDB | Atlas](https://www.mongodb.com/es/atlas)
 - [MongoDB | Atlas](https://www.mongodb.com/lp/cloud/atlas/try4)
 - [MongoDB | Qué es MongoDB Atlas + Get started](https://www.mongodb.com/docs/atlas/)
