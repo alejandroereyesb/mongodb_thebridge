@@ -17,7 +17,7 @@
 - [mysql-vs-mongodb-cuando-y-donde-usar-cada-uno](https://impactotecno.wordpress.com/2018/02/26/mysql-vs-mongodb-cuando-y-donde-usar-cada-uno)
 - [mongodb-como-funciona](https://siliconnews.plataformasinc.es/mongodb-como-funciona/)
 
-### MongoDB - Ejemplos de apps Node.js
+### MongoDB - Ejemplos de apps
 - [real-world-use-cases-of-mongodb](https://www.knowledgehut.com/blog/web-development/real-world-use-cases-of-mongodb)
 - [mongodb-real-world-use-cases](https://www.upgrad.com/blog/mongodb-real-world-use-cases/)
 - [mongodb-use-case](https://hevodata.com/learn/mongodb-use-case/)
