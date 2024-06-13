@@ -8,7 +8,6 @@
 ![img](./assets/mongoDB.png)
 
 ### MongoDB vs SQL ¿Cuándo usar cada una?
-- [MongoDB | casos de uso](https://www.mongodb.com/solutions/use-cases)
 - [MongoDB | mongodb-mysql](https://www.mongodb.com/es/resources/compare/mongodb-mysql)
 - [AWS | the-difference-between-mongodb-vs-mysql](https://aws.amazon.com/es/compare/the-difference-between-mongodb-vs-mysql/)
 - [Video IBM | MySQL vs MongoDB](https://youtu.be/OdgZ0jr4jpM?si=u_HTNTN0JeeuVJLN)
@@ -18,6 +17,7 @@
 - [mongodb-como-funciona](https://siliconnews.plataformasinc.es/mongodb-como-funciona/)
 
 ### MongoDB - Ejemplos de apps - casos de uso
+- [MongoDB | casos de uso](https://www.mongodb.com/solutions/use-cases)
 - [real-world-use-cases-of-mongodb](https://www.knowledgehut.com/blog/web-development/real-world-use-cases-of-mongodb)
 - [mongodb-real-world-use-cases](https://www.upgrad.com/blog/mongodb-real-world-use-cases/)
 - [mongodb-use-case](https://hevodata.com/learn/mongodb-use-case/)
