@@ -22,6 +22,11 @@
 - [mongodb-real-world-use-cases](https://www.upgrad.com/blog/mongodb-real-world-use-cases/)
 - [mongodb-use-case](https://hevodata.com/learn/mongodb-use-case/)
 
+### MongoDB atlas - deploy de tu BBDD en cloud
+- [MongoDB | Atlas](https://www.mongodb.com/es/atlas)
+- [MongoDB | Atlas](https://www.mongodb.com/lp/cloud/atlas/try4)
+- [MongoDB | Qué es MongoDB Atlas + Get started](https://www.mongodb.com/docs/atlas/)
+
 ### NoSQL con MongoDB - Estructura
 ![img](./assets/MongoDB-chart.jpg)
 - Colecciones
