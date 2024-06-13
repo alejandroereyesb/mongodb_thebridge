@@ -7,13 +7,20 @@
 ## Introducción a BBDD NoSQL con MongoDB
 ![img](./assets/mongoDB.png)
 
-- [MongoDB](https://www.mongodb.com/es)
-- [MongoDB | NoSQL Explained](https://www.mongodb.com/es/nosql-explained)
+### MongoDB vs SQL ¿Cuándo usar cada una?
+- [MongoDB | casos de uso](https://www.mongodb.com/solutions/use-cases)
+- [MongoDB | mongodb-mysql](https://www.mongodb.com/es/resources/compare/mongodb-mysql)
+- [AWS | the-difference-between-mongodb-vs-mysql](https://aws.amazon.com/es/compare/the-difference-between-mongodb-vs-mysql/)
+- [Video IBM | MySQL vs MongoDB](https://youtu.be/OdgZ0jr4jpM?si=u_HTNTN0JeeuVJLN)
 - [7-razones-mongodb](https://platzi.com/blog/7-razones-mongodb/)
 - [que-es-mongodb](https://openwebinars.net/blog/que-es-mongodb/)
-- [mongodb-cloud](https://www.arsys.es/blog/programacion/mongodb-cloud/)
 - [mysql-vs-mongodb-cuando-y-donde-usar-cada-uno](https://impactotecno.wordpress.com/2018/02/26/mysql-vs-mongodb-cuando-y-donde-usar-cada-uno)
 - [mongodb-como-funciona](https://siliconnews.plataformasinc.es/mongodb-como-funciona/)
+
+### MongoDB - Ejemplos de apps Node.js
+- [real-world-use-cases-of-mongodb](https://www.knowledgehut.com/blog/web-development/real-world-use-cases-of-mongodb)
+- [mongodb-real-world-use-cases](https://www.upgrad.com/blog/mongodb-real-world-use-cases/)
+- [mongodb-use-case](https://hevodata.com/learn/mongodb-use-case/)
 
 ### NoSQL con MongoDB - Estructura
 ![img](./assets/MongoDB-chart.jpg)
