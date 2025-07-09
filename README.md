@@ -467,6 +467,37 @@ Supongamos que tenemos una colección llamada `pedidos` con los siguientes docum
 
 #### Consultas de ejemplo
 
+0. **Carga los datos**:
+   ```bash
+   db.clientes.insertMany(
+                            [
+                                {
+                                    "cliente": {
+                                        "nombre": "Juan Pérez",
+                                        "email": "juan.perez@example.com"
+                                    },
+                                    "productos": [
+                                        { "nombre": "Laptop", "cantidad": 1, "precio": 1200 },
+                                        { "nombre": "Mouse", "cantidad": 2, "precio": 25 }
+                                    ],
+                                    "fecha": "2023-10-01",
+                                    "total": 1250
+                                },
+                                {
+                                    "cliente": {
+                                        "nombre": "Ana López",
+                                        "email": "ana.lopez@example.com"
+                                    },
+                                    "productos": [
+                                        { "nombre": "Teclado", "cantidad": 1, "precio": 45 },
+                                        { "nombre": "Monitor", "cantidad": 1, "precio": 200 }
+                                    ],
+                                    "fecha": "2023-10-02",
+                                    "total": 245
+                                }
+                            ]
+                    );
+   ```
 1. **Acceder a un campo dentro de un objeto interno**:
    Obtener el nombre del cliente de todos los pedidos:
    ```bash
