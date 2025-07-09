@@ -376,20 +376,20 @@ Para modificar documentos, usamos los comandos `updateOne`, `updateMany` o `repl
 ```bash
 # Actualizar un solo documento
 db.usuarios.updateOne(
-    { nombre: "Juan" }, # Filtro
-    { $set: { edad: 31 } } # Actualización
+    { nombre: "Juan" },
+    { $set: { edad: 31 } } 
 );
 
 # Actualizar múltiples documentos
 db.usuarios.updateMany(
-    { edad: { $lt: 30 } }, # Filtro
-    { $set: { activo: true } } # Actualización
+    { edad: { $lt: 30 } },
+    { $set: { activo: true } }
 );
 
 # Reemplazar un documento completo
 db.usuarios.replaceOne(
-    { nombre: "Luis" }, # Filtro
-    { nombre: "Luis", edad: 36, email: "luis_nuevo@example.com" } # Nuevo documento
+    { nombre: "Luis" },
+    { nombre: "Luis", edad: 36, email: "luis_nuevo@example.com" } 
 );
 ```
 
