@@ -469,7 +469,7 @@ Supongamos que tenemos una colección llamada `pedidos` con los siguientes docum
 
 0. **Carga los datos**:
    ```bash
-   db.clientes.insertMany(
+   db.pedidos.insertMany(
                             [
                                 {
                                     "cliente": {
